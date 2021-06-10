@@ -5,7 +5,8 @@ MDI_Mechanic
 
 
 A tool for testing and developing MDI-enabled projects.
-
+### Getting Started
+Getting started tutorial can be found [here](https://mdi-mechanic.readthedocs.io/en/latest/getting_started.html)
 ### Copyright
 
 Copyright (c) 2020, Taylor Barnes
